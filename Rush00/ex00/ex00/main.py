@@ -1,5 +1,5 @@
 '''Main file'''
-from miniproject.ex00.checkmate import checkmate
+from checkmate import checkmate
 
 def main():
     board = """\
